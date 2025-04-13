@@ -1,1 +1,1 @@
-UI-тестирование сложной формы регистрации на [demoqa.com](https://demoqa.com/automation-practice-form) с использованием Selenide и Datafaker, как локальное, так и удалённое с задействованием Allure и Selenoid.
+UI-тестирование сложной формы регистрации на [demoqa.com](https://demoqa.com/automation-practice-form) с использованием Selenide и Datafaker, как локальное, так и удалённое – с задействованием Allure и Selenoid.
